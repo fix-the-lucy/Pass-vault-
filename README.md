@@ -1,2 +1,8 @@
-# Pass-vault-
-#A lightweight C++ authentication system that uses file handling to register and log in users. It securely stores credentials in a local text file and features a built-in dashboard for user profile management.
+  _____                __      __         _ _   
+ |  __ \               \ \    / /        | | |  
+ | |__) |_ _ ___ ___    \ \  / /_ _ _   _| | |_ 
+ |  ___/ _` / __/ __|    \ \/ / _` | | | | | __|
+ | |  | (_| \__ \__ \     \  / (_| | |_| | | |_ 
+ |_|   \__,_|___/___/      \/ \__,_|\__,_|_|\__|
+
+                                                
