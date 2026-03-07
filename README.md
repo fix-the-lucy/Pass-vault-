@@ -15,89 +15,6 @@
 </p>
 
 ---
-# 🚀 How to Use Pass-vault-
-
-Follow these simple steps to get your C++ Password Manager up and running on your system.
-
----
-
-## 🛠️ Prerequisites
-Make sure you have a C++ compiler installed on your system.
-* **Linux/Termux:** `pkg install g++` or `sudo apt install g++`
-* **Windows:** MinGW or Visual Studio installed.
-
----
-
-## 📥 Installation
-Clone the repository and enter the project folder:
-
-# Clone this repo
-```
-git clone https://github.com/fix-the-lucy/Pass-vault-
-```
-
-# Navigate into the directory
-```
-cd Pass-vault-
-```
-# Compile the main file
-```
-g++ main.cpp -o passvault
-
-```
-
-##  Features Guide
-
-Once the program starts, you can use the following menu options:
-
-| Option | Action | What it does |
-| :--- | :--- | :--- |
-| 1 | **Add Password** | Saves a new service name, username, and password. |
-| 2 | **View Passwords** | Displays all your stored credentials in a list. |
-| 3 | **Search** | Quickly find a password by entering the service name. |
-| 4 | **Exit** | Safely closes the application. |
-
----
-
-## 🛡️ Security Best Practices
-* **Physical Security:** Your vault is stored locally. Protect your machine.
-* **No Hardcoding:** The current version relies on binary storage. Ensure your actual passwords are not stored as plain text in your `main.cpp`.
-* **Regular Backups:** Back up your database file periodically to a secure, offline location.
-
----
-
-## 🤝 Contributing
-*Contributions are welcome!*
-
-1. **Fork the Project.**
-2. **Create your Feature Branch** (`git checkout -b feature/NewFeature`).
-3. **Commit your Changes** (`git commit -m 'Add NewFeature'`).
-4. **Push to the Branch** (`git push origin feature/NewFeature`).
-5. **Open a Pull Request.**
-
----
-
-## 📬 Contact
-**fix-the-lucy** - [GitHub Profile](https://github.com/fix-the-lucy)
-
-**Project Link:** [https://github.com/fix-the-lucy/Pass-vault-](https://github.com/fix-the-lucy/Pass-vault-)
-
----
-*Built for the Cybersecurity community by Abhay.*
-
-
-
-## 🌟 Key Features
-
-| Feature | Description |
-| :--- | :--- |
-| **⚡ C++ Power** | Blazing fast performance for instant credential management. |
-| **🔒 Local Storage** | Your passwords stay on your hardware. No cloud, no leaks. |
-| **📁 Binary Vault** | Uses binary file storage for compact and secure data handling. |
-| **🛠️ Simple CLI** | An intuitive menu-driven interface for ease of use. |
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to get **Pass-vault-** running on your system.
@@ -125,8 +42,29 @@ g++ main.cpp -o passvault
 ./passvault
 ```
 
+---
 
-## 📖 Step 5: Features Guide
+
+## 🌟 Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| **⚡ C++ Power** | Blazing fast performance for instant credential management. |
+| **🔒 Local Storage** | Your passwords stay on your hardware. No cloud, no leaks. |
+| **📁 Binary Vault** | Uses binary file storage for compact and secure data handling. |
+| **🛠️ Simple CLI** | An intuitive menu-driven interface for ease of use. |
+
+---
+
+## 🛡️ Security Best Practices
+* **Physical Security:** Your vault is stored locally. Protect your machine.
+* **No Hardcoding:** The current version relies on binary storage. Ensure your actual passwords are not stored as plain text in your `main.cpp`.
+* **Regular Backups:** Back up your database file periodically to a secure, offline location.
+
+---
+
+
+## 📖 Features Guide
 
 Once the program starts, you can use the following menu options:
 
