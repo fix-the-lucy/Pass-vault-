@@ -34,12 +34,12 @@ cd Pass-vault-
 ```
 # 3. Compile the source code (using g++)
 ```
-g++ main.cpp -o passvault
+g++ security.cpp -o secure
 ```
 
 # 4. Run the application
 ```
-./passvault
+./secure
 ```
 
 ---
@@ -53,13 +53,6 @@ g++ main.cpp -o passvault
 | **🔒 Local Storage** | Your passwords stay on your hardware. No cloud, no leaks. |
 | **📁 Binary Vault** | Uses binary file storage for compact and secure data handling. |
 | **🛠️ Simple CLI** | An intuitive menu-driven interface for ease of use. |
-
----
-
-## 🛡️ Security Best Practices
-* **Physical Security:** Your vault is stored locally. Protect your machine.
-* **No Hardcoding:** The current version relies on binary storage. Ensure your actual passwords are not stored as plain text in your `main.cpp`.
-* **Regular Backups:** Back up your database file periodically to a secure, offline location.
 
 ---
 
