@@ -15,50 +15,16 @@
 </p>
 
 ---
+## 📖 Step 5: Features Guide
 
-## 🖼️ Project Showcase
-*Here is a glimpse of Pass-vault- in action and its core philosophy.*
+Once the program starts, you can use the following menu options:
 
-<p align="center">
-  <img src="https://image.pollinations.ai/prompt/A_futuristic_digital_vault_with_binary_code_flowing_in_the_background_dark_blue_and_neon_cyan_cybersecurity_aesthetic.png" alt="Pass-vault Preview" width="600px">
-</p>
-
----
-
-## 📖 Features Guide
-*Once the program starts, you can use the following menu options:*
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/OPTION%201-ADD%20PASSWORD-blue?style=for-the-badge" alt="Add Password">
-  </a>
-  <br>
-  <i>Saves a new service name, username, and password.</i>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/OPTION%202-VIEW%20PASSWORDS-green?style=for-the-badge" alt="View Passwords">
-  </a>
-  <br>
-  <i>Displays all your stored credentials in a list.</i>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/OPTION%203-SEARCH-yellow?style=for-the-badge" alt="Search">
-  </a>
-  <br>
-  <i>Quickly find a password by entering the service name.</i>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/OPTION%204-EXIT-red?style=for-the-badge" alt="Exit">
-  </a>
-  <br>
-  <i>Safely closes the application.</i>
-</p>
+| Option | Action | What it does |
+| :--- | :--- | :--- |
+| 1 | **Add Password** | Saves a new service name, username, and password. |
+| 2 | **View Passwords** | Displays all your stored credentials in a list. |
+| 3 | **Search** | Quickly find a password by entering the service name. |
+| 4 | **Exit** | Safely closes the application. |
 
 ---
 
