@@ -15,7 +15,38 @@
 </p>
 
 ---
-## 📖 Step 5: Features Guide
+# 🚀 How to Use Pass-vault-
+
+Follow these simple steps to get your C++ Password Manager up and running on your system.
+
+---
+
+## 🛠️ Prerequisites
+Make sure you have a C++ compiler installed on your system.
+* **Linux/Termux:** `pkg install g++` or `sudo apt install g++`
+* **Windows:** MinGW or Visual Studio installed.
+
+---
+
+## 📥 Installation
+Clone the repository and enter the project folder:
+
+# Clone this repo
+```
+git clone https://github.com/fix-the-lucy/Pass-vault-
+```
+
+# Navigate into the directory
+```
+cd Pass-vault-
+```
+# Compile the main file
+```
+g++ main.cpp -o passvault
+
+```
+
+##  Features Guide
 
 Once the program starts, you can use the following menu options:
 
